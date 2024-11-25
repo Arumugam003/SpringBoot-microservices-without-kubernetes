@@ -1,0 +1,3 @@
+run the powershell with administrator
+npm install
+npm start
