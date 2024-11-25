@@ -1,0 +1,5 @@
+mailtrap.io    -- used to send mail
+
+
+Got Message from order-placed topic OrderPlacedEvent(orderNumber=bcd6a6b3-5b4a-4c0c-a0ab-39d5f6627e98, email=admin@gmail.com)
+Order Notifcation email sent!!

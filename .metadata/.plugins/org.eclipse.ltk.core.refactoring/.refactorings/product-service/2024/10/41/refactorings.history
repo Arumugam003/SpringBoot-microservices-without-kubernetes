@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.volley.microservices.product.config&apos; to &apos;order-service/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;product-service&apos;&#x0D;&#x0A;- Destination element: &apos;order-service/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;product-service/src/main/java/com.volley.microservices.product.config&apos;" description="Copy package" destination="=order-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.volley.microservices.product.config" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1728397762226" version="1.0"/>
+</session>

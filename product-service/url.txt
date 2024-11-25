@@ -1,0 +1,11 @@
+http://localhost:8080//api/product
+
+{
+   "name" : "iphone 15",
+   "description" : "iphone15 is a smartphone from apple",
+   "price": 1000
+}
+
+
+http://localhost:8080/swagger-ui/index.html
+

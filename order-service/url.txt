@@ -1,0 +1,29 @@
+http://localhost:8081/api/order
+
+{
+    "skuCode" : "iphone_15",
+    "price" : 1000,
+    "quantity" : 101
+}
+
+
+if you want to test  the wiremock in order service , you need to stop the inventory service then test it.
+
+
+http://localhost:8081/swagger-ui/index.html
+
+
+
+{
+    "skuCode" : "iphone_15",
+    "price" : 2000,
+    "quantity" : 1,
+    "email" : "kevin@gmail.com"
+    
+}
+
+
+No need to send in postman , if you send in UI directly then it work fine
+
+
+http://localhost:8086/    -- Kafka UI

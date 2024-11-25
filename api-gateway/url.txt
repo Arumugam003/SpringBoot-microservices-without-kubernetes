@@ -1,0 +1,30 @@
+
+http://localhost:9000/api/product
+
+post:
+http://localhost:9000/api/order
+
+get:
+http://localhost:8082/api/inventory?skuCode=iphone_15&quantity=10
+
+https://programmingtechie.com/articles/spring-boot-microservices-tutorial-part
+
+#Swagger
+http://localhost:9000/swagger-ui/index.html
+
+
+
+Circuit breaker:
+
+http://localhost:9000/api/product
+
+Stop the product services and hit the product get request 5 times  and check  the actuator it will show half Open ,
+ then bring up the product service and hit the prodct 3 times then check the actuator it will be closed
+
+http://localhost:9000/actuator/health
+
+
+
+grafana :
+
+localhost:3000
